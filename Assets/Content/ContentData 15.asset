@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
+  m_Name: ContentData 15
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Strike Back
+  <Image>k__BackingField: {fileID: 21300000, guid: 32f6585d30f9caa4fbe463d0b64220c8,
+    type: 3}
+  <Text>k__BackingField: The real experiences of former SAS Cpl. Chris Ryan.
