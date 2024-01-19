@@ -79,12 +79,11 @@ public class ScreenManager : MonoBehaviour
             
             _screens[i].Name.text = contentData.Name;
             _screens[i].Image.sprite = contentData.Image;
-            _screens[i].Image.SetNativeSize();
+            // _screens[i].Image.SetNativeSize();
             _screens[i].Text.text = contentData.Text;
         }
 
         var lastFooter = _screens[_screens.Length - 1].NextButton.GetComponentInChildren<TMP_Text>();
         lastFooter.text = "To Menu";
-        lastFooter.fontStyle ^= FontStyles.UpperCase;
     }
 }

@@ -36,7 +36,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: -215.99992}
-  m_SizeDelta: {x: 300, y: 318}
+  m_SizeDelta: {x: 315, y: 315}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2851970439030629117
 CanvasRenderer:
@@ -66,7 +66,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e4f8fc2b877364f468c1387e1657178a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e79f718cee828c244b3c851821b14a61, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -149,7 +149,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -524}
+  m_AnchoredPosition: {x: 0, y: -485}
   m_SizeDelta: {x: 0, y: 198}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2851970439177939798
@@ -180,9 +180,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Follow the legal battles of a disgraced lawyer seeking redemption, as he
-    takes on powerful enemies and his own personal demons. This gripping underdog
-    story proves that in the courtroom, nothing is ever as simple as it seems.
+  m_text: "J\xFAlio C\xE9sar Soares de Esp\xEDndola (born 3 September 1979), known
+    as J\xFAlio C\xE9sar (Portuguese pronunciation: [\u02C8\u0292uliu \u02C8s\u025Bz\u0250\u0281]),
+    is a Brazilian former professional footballer who played as a goalkeeper. J\xFAlio
+    C\xE9sar spent seven years at Italian club Inter Milan, where he won five Scudetti,
+    the 2009\u201310 UEFA Champions League, and the 2010 FIFA Club World Cup. He
+    was awarded the Serie A Goalkeeper of the Year title in both 2009 and 2010, and
+    was nominated for the 2009 Ballon d'Or, where he was voted into 21st place. He
+    was also named UEFA Club Goalkeeper of the Year after the 2009\u201310 season
+    and won the Golden Glove award at the 2013 Confederations Cup.J\xFAlio C\xE9sar
+    won 87 international caps for Brazil between 2004 and 2014. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 05adfda69ecd4134d98d9a31167da172, type: 2}
   m_sharedMaterial: {fileID: -4977101411209188755, guid: 05adfda69ecd4134d98d9a31167da172,
@@ -210,8 +217,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 17
+  m_fontSizeBase: 17
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -222,7 +229,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: -5
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: -40
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -287,8 +294,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -25}
-  m_SizeDelta: {x: 0, y: 26}
+  m_AnchoredPosition: {x: 0, y: -30}
+  m_SizeDelta: {x: 0, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2851970439301431790
 CanvasRenderer:
@@ -318,7 +325,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Goliath
+  m_text: "J\xFAlio C\xE9sar"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 05adfda69ecd4134d98d9a31167da172, type: 2}
   m_sharedMaterial: {fileID: -4977101411209188755, guid: 05adfda69ecd4134d98d9a31167da172,
@@ -346,8 +353,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25
-  m_fontSizeBase: 25
+  m_fontSize: 35
+  m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -356,9 +363,9 @@ MonoBehaviour:
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
-  m_characterSpacing: -10
+  m_characterSpacing: -2
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: -70
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -424,8 +431,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -33}
-  m_SizeDelta: {x: 0, y: -66}
+  m_AnchoredPosition: {x: 0, y: -36}
+  m_SizeDelta: {x: 0, y: -72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2851970439398845268
 GameObject:
@@ -493,17 +500,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SeriesSpotlight
+  m_text: 'Brilliant
+
+    Brazilians'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 05adfda69ecd4134d98d9a31167da172, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: 4dc52ede2da8ee8428a22f49504ef2db, type: 2}
+  m_sharedMaterial: {fileID: -4977101411209188755, guid: 05adfda69ecd4134d98d9a31167da172,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281084197
-  m_fontColor: {r: 0.14509805, g: 0.16078432, b: 0.17254902, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -598,7 +608,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 31.5, y: -33}
+  m_AnchoredPosition: {x: 23, y: -36}
   m_SizeDelta: {x: 46, y: 51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2851970439606263996
@@ -629,7 +639,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d0eaf2c559e1939458ff3c1e43e1648e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 64c0e09d31192f04bb02f5638c683025, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -757,8 +767,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -33.00003}
-  m_SizeDelta: {x: 181, y: 44}
+  m_AnchoredPosition: {x: 0, y: -36}
+  m_SizeDelta: {x: 219, y: 72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2851970440546412427
 CanvasRenderer:
@@ -788,7 +798,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: aa78b211e743ecf4abf853c5af279f5f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 125c70025b1ce514b9fb205ba6311399, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -880,7 +890,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
   m_AnchoredPosition: {x: 0, y: 33.00003}
-  m_SizeDelta: {x: 136, y: 34}
+  m_SizeDelta: {x: 164, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2851970440812124039
 CanvasRenderer:
@@ -910,7 +920,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: aa78b211e743ecf4abf853c5af279f5f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 125c70025b1ce514b9fb205ba6311399, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1040,8 +1050,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281084197
-  m_fontColor: {r: 0.14509805, g: 0.16078432, b: 0.17254902, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1058,13 +1068,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25
-  m_fontSizeBase: 25
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 16
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535

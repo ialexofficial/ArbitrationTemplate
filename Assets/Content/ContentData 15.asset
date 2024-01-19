@@ -12,7 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 15
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Strike Back
-  <Image>k__BackingField: {fileID: 21300000, guid: 32f6585d30f9caa4fbe463d0b64220c8,
+  <Name>k__BackingField: Hulk
+  <Image>k__BackingField: {fileID: 21300000, guid: 2be28d4a535f5f94b8091a9b1225cd98,
     type: 3}
-  <Text>k__BackingField: The real experiences of former SAS Cpl. Chris Ryan.
+  <Text>k__BackingField: "Givanildo Vieira de Sousa (born 25 July 1986), known as
+    Hulk (Brazilian Portuguese: [\u02C8huwki]), is a Brazilian professional footballer
+    who plays for Shanghai SIPG as a forward, though he can also operate as a winger.
+    After starting out professionally with Vit\xF3ria and then playing three years
+    in Japan, he went on to play several seasons in Portugal with Porto, winning
+    ten titles \u2013 including the 2010\u201311 UEFA Europa League and three national
+    championships \u2013 and being crowned the league's top scorer once. In 2012,
+    he joined Russian Premier League side Zenit Saint Petersburg for \u20AC60 million,
+    winning all three domestic honours and being named the competition's best player
+    and being top scorer, once each."
