@@ -12,15 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 16
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Oscar
-  <Image>k__BackingField: {fileID: 21300000, guid: 91ec6819291e81c448b364265b7c4295,
+  <Name>k__BackingField: Allen Hopkins
+  <Image>k__BackingField: {fileID: 21300000, guid: c070128b26648b24f8854868b4bc545f,
     type: 3}
-  <Text>k__BackingField: "Oscar dos Santos Emboaba J\xFAnior, better known as simply
-    Oscar, is a Brazilian professional footballer who plays an attacking midfielder
-    for Chinese Super League club Shanghai Port. Oscar began his career at S\xE3o
-    Paulo, and in 2009, he went to court against the club due to irregularities in
-    his contract. After a series of controversies, he left for Internacional, where
-    he spent the next three years of his career. His displays for club and country
-    led to him signing for Chelsea for a fee of R$61.575 million. After four-and-a-half
-    years with Chelsea, he signed for Chinese Super League side then known as Shanghai
-    SIPG for an Asian transfer record \xA367 million in January 2017."
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    2008
+
+    Discipline: Straight pool, One pocket, Nine-ball'

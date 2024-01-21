@@ -12,15 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 2
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: "Vin\xEDcius J\xFAnior"
-  <Image>k__BackingField: {fileID: 21300000, guid: a883235d6ba1a6a448b3d8dff7945f41,
+  <Name>k__BackingField: Willie Mosconi
+  <Image>k__BackingField: {fileID: 21300000, guid: a947490c57d1230428e369597d939a1a,
     type: 3}
-  <Text>k__BackingField: "Vin\xEDcius Jos\xE9 Paix\xE3o de Oliveira J\xFAnior (born
-    12 July 2000), commonly known as Vin\xEDcius J\xFAnior or Vini Jr., is a Brazilian
-    professional footballer who plays as a winger for Spanish club Real Madrid and
-    the Brazil national team. Born in the S\xE3o Gon\xE7alo, Vin\xEDcius began his
-    professional career at Flamengo, where he made his senior debut in 2017, at age
-    16. A few weeks later, Vin\xEDcius was the subject of a transfer to La Liga club
-    Real Madrid, for whom he signed for in a national record for an U-18 player,
-    R$191 million (\u20AC45 million) deal, which was made effective after his 18th
-    birthday."
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    1968
+
+    Discipline: Straight pool, Nine-ball'

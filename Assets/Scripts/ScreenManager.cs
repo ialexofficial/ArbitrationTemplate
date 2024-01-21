@@ -34,6 +34,8 @@ public class ScreenManager : MonoBehaviour
 
         loadingScreen.SetActive(false);
         menuScreen.SetActive(true);
+        background.SetActive(false);
+        bluredBackground.SetActive(true);
     }
 
     public void ShowScreen(int screenNumber)
@@ -84,6 +86,6 @@ public class ScreenManager : MonoBehaviour
         }
 
         var lastFooter = _screens[_screens.Length - 1].NextButton.GetComponentInChildren<TMP_Text>();
-        lastFooter.text = "To Menu";
+        lastFooter.text = "to menu";
     }
 }

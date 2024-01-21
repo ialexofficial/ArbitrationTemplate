@@ -12,14 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 19
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: 'Luiz Gustavo '
-  <Image>k__BackingField: {fileID: 21300000, guid: 0894a798e3dbb0e43aa37b33fc454f67,
+  <Name>k__BackingField: James Rempe
+  <Image>k__BackingField: {fileID: 21300000, guid: 7ad0d67e43099e94d907a2f41f36262e,
     type: 3}
-  <Text>k__BackingField: "Luiz Gustavo Dias (born 23 July 1987) is a Brazilian professional
-    footballer who plays as a defensive midfielder for Ligue 1 club Olympique de
-    Marseille. He began his career as a left back, but has played mostly as a defensive
-    midfielder, and also as a centre back. From 2007 to 2017 he played in Germany,
-    where he represented 1899 Hoffenheim, Bayern Munich and VfL Wolfsburg, making
-    245 Bundesliga appearances and scoring 15 goals. He won six trophies in his time
-    in the country, including the 2012\u201313 UEFA Champions League with Bayern
-    Munich."
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    2002
+
+    Discipline: Straight pool, Nine-ball'

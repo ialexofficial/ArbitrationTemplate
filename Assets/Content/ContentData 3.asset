@@ -12,15 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 3
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Juninho Pernambucano
-  <Image>k__BackingField: {fileID: 21300000, guid: ee0bba30f8ec7884fa0699b519d54727,
+  <Name>k__BackingField: Earl Strickland
+  <Image>k__BackingField: {fileID: 21300000, guid: 216d82c75955f094fb7d7aa216ecfd0b,
     type: 3}
-  <Text>k__BackingField: "Ant\xF4nio Augusto Ribeiro Reis J\xFAnior (born 30 January
-    1975), commonly known as Juninho or Juninho Pernambucano is a Brazilian former
-    footballer, who is currently sporting director of Olympique Lyonnais. Noted for
-    his bending free kicks, he is widely considered to be the greatest free kick-taker
-    of all time and holds the record for the highest number of goals scored through
-    free kicks with 75, ahead of the likes of Pel\xE9 (70), V\xEDctor Antonio Legrotaglie
-    and Ronaldinho (59 each), and David Beckham (50).Juninho began his professional
-    career in 1993 with Brazilian club Sport do Recife. Two years later he joined
-    Vasco da Gama where he played over 100 matches and won six titles. "
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    2006
+
+    Discipline: Nine-ball'

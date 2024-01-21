@@ -12,16 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 9
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: "J\xFAlio C\xE9sar"
-  <Image>k__BackingField: {fileID: 21300000, guid: fa22ed16b1564714983977c57cdfd25c,
+  <Name>k__BackingField: Allison Fisher
+  <Image>k__BackingField: {fileID: 21300000, guid: 6dbcf1777b75d2f4bb324d7e6ccfdfdd,
     type: 3}
-  <Text>k__BackingField: "J\xFAlio C\xE9sar Soares de Esp\xEDndola (born 3 September
-    1979), known as J\xFAlio C\xE9sar (Portuguese pronunciation: [\u02C8\u0292uliu
-    \u02C8s\u025Bz\u0250\u0281]), is a Brazilian former professional footballer who
-    played as a goalkeeper. J\xFAlio C\xE9sar spent seven years at Italian club Inter
-    Milan, where he won five Scudetti, the 2009\u201310 UEFA Champions League, and
-    the 2010 FIFA Club World Cup. He was awarded the Serie A Goalkeeper of the Year
-    title in both 2009 and 2010, and was nominated for the 2009 Ballon d'Or, where
-    he was voted into 21st place. He was also named UEFA Club Goalkeeper of the Year
-    after the 2009\u201310 season and won the Golden Glove award at the 2013 Confederations
-    Cup.J\xFAlio C\xE9sar won 87 international caps for Brazil between 2004 and 2014."
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    2009
+
+    Discipline: Straight pool, Nine-ball, Snooker'

@@ -12,16 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 13
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Douglas Costa
-  <Image>k__BackingField: {fileID: 21300000, guid: 3e7686308e6bbf644b2f9684d282e6b0,
+  <Name>k__BackingField: Irving Crane
+  <Image>k__BackingField: {fileID: 21300000, guid: 8ee67cb5681e16e42b35b0e7d0b50fc6,
     type: 3}
-  <Text>k__BackingField: "Douglas Costa de Souza (Brazilian Portuguese: [\u02C8dow\u0261l\u0250s
-    \u02C8k\u0254st\u0250]; born 14 September 1990) is a Brazilian footballer who
-    plays as a winger for Serie A club Juventus and the Brazil national team. He
-    is known for his dribbling skills, speed and crossing ability. Costa started
-    his career with Gr\xEAmio, before moving to Shakhtar Donetsk in January 2010
-    for a fee of \u20AC6 million. He won numerous trophies with Shakhtar, including
-    a domestic treble in the 2010\u201311 season (Premier League, the Ukrainian Cup
-    and the Super Cup). In 2015, he joined Bayern for \u20AC30 million, where he
-    won two consecutive league titles. He was loaned out to Juventus in 2017, and
-    won a domestic double with the club in his first season."
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    1978
+
+    Discipline: Straight pool'

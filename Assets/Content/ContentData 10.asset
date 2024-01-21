@@ -12,15 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 10
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Deco
-  <Image>k__BackingField: {fileID: 21300000, guid: f4e04633e70e6a34faa9aed1db7a82ac,
+  <Name>k__BackingField: Johnny Archer
+  <Image>k__BackingField: {fileID: 21300000, guid: d7afc45d7ef59684398716a18a717de1,
     type: 3}
-  <Text>k__BackingField: "Anderson Lu\xEDs de Souza (born 27 August 1977), known
-    as Deco (Portuguese pronunciation: [\u02C8d\u025Bku]), is a retired professional
-    footballer who played as an attacking midfielder or central midfielder. Deco
-    is one of the few players to have won the UEFA Champions League with two clubs,
-    with Porto in 2004 and Barcelona in 2006. He was named UEFA Club Footballer of
-    the Year and UEFA Best Midfielder in Porto's Champions League-winning season
-    and was named Man of the Match in the 2004 UEFA Champions League Final. Deco
-    was the first player to win the UEFA Best Midfielder Award with two clubs, Porto
-    and Barcelona"
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    2009
+
+    Discipline: Straight pool, Nine-ball'

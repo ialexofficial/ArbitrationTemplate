@@ -12,16 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 7
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Gilberto Silva
-  <Image>k__BackingField: {fileID: 21300000, guid: ea9947d647baccd4e9e9ed2f2c04ed25,
+  <Name>k__BackingField: Steve Mizerak
+  <Image>k__BackingField: {fileID: 21300000, guid: 7af13fe897a6d0d4eadba3744a193e18,
     type: 3}
-  <Text>k__BackingField: "Gilberto Aparecido da Silva (Brazilian Portuguese: [\u0292iw\u02C8b\u025B\u0281tu
-    \u02C8siwv\u0250] (listen); born 7 October 1976) is a Brazilian former professional
-    footballer. Born and raised in poverty in the Brazilian municipality of Lagoa
-    da Prata, Gilberto joined the youth academy at local club Am\xE9rica Mineiro,
-    where he made his senior debut as a centre-back in 1998. After starring the following
-    season, where he helped gain the club promotion into the Campeonato Brasileiro
-    S\xE9rie A, he joined city rivals Atl\xE9tico Mineiro. During his time at Atl\xE9tico,
-    Gilberto transitioned into a defensive midfielder under head coach Carlos Alberto
-    Parreira, and flourished in his new role, gaining a call-up to the Brazilian
-    national team for the 2002 FIFA World Cup"
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    1980
+
+    Discipline: Straight pool, Nine-ball, Snooker'

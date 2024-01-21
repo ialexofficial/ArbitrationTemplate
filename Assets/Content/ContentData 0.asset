@@ -12,16 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 0
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Adriano
-  <Image>k__BackingField: {fileID: 21300000, guid: e79f718cee828c244b3c851821b14a61,
+  <Name>k__BackingField: Efren Reyes
+  <Image>k__BackingField: {fileID: 21300000, guid: b5839ddb56bde73499bffeeb56477fde,
     type: 3}
-  <Text>k__BackingField: "Adriano Leite Ribeiro (born February 17, 1982), commonly
-    known simply as Adriano, is a Brazilian former professional footballer. A powerful
-    striker known for his long range left footed strikes, Adriano's career was however
-    marked by inconsistency. One of the best strikers in the world in the mid 2000s,
-    he had five prolific seasons in Italy with Parma and Inter Milan, earning the
-    nickname L'Imperatore (the Emperor), before a decline in his performances which
-    coincided with the death of his father. Adriano won four Scudetti for Inter Milan,
-    and after moving back to his native Brazil he won two Brasileir\xE3o for Flamengo
-    and Corinthians. Making his Brazil debut at 18, Adriano was considered the long-term
-    successor to Ronaldo."
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    2003
+
+    Discipline: Straight pool, Nine-ball, Three-cushion billiards, One-cushion
+    billiards'

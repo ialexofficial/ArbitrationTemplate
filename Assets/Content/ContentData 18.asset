@@ -12,16 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 18
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Ramires
-  <Image>k__BackingField: {fileID: 21300000, guid: 0b6565a100c7c484791d95d7b17d6379,
+  <Name>k__BackingField: Willie Hoppe
+  <Image>k__BackingField: {fileID: 21300000, guid: d18fd4e876389f545b2b55c570d7bd3c,
     type: 3}
-  <Text>k__BackingField: "Ramires Santos do Nascimento (Brazilian Portuguese: [\u0281a\u02C8mi\u027Ees
-    \u02C8s\u0250\u0303tus du nasi\u02C8m\u1EBDtu]; born 24 March 1987), known as
-    Ramires, is a Brazilian professional footballer who plays for Palmeiras. A midfielder,
-    he is comfortable playing in either the centre or right midfielder position.
-    He normally plays as a box-to-box midfielder role because of his energy in supporting
-    defensive and attacking play. Ramires began his career playing for Royal Sport
-    Club, at Barra do Pira\xED, 114 km north-west of Rio de Janeiro. In 2005, he
-    signed for Joinville, before joining Cruzeiro, with whom he spent just over two
-    seasons, appearing in 61 league matches and scoring 10 times. In 2009, Ramires
-    moved to Portugal and signed for Benfica."
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    1966
+
+    Discipline: Balkine, Three-cushion billiards'

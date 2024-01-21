@@ -12,15 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2208983482a472c9316a9a5dd025930, type: 3}
   m_Name: ContentData 12
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Gabriel Jesus
-  <Image>k__BackingField: {fileID: 21300000, guid: 215e8a627117edc42bb77d70a444fd7e,
+  <Name>k__BackingField: Cecil P. Hall
+  <Image>k__BackingField: {fileID: 21300000, guid: 02b761037ad4029438d51d69bbc86d84,
     type: 3}
-  <Text>k__BackingField: "Gabriel Fernando de Jesus (born 3 April 1997) is a Brazilian
-    professional footballer who plays as a forward for Premier League club Arsenal
-    and the Brazil national team. Jesus began his career at Palmeiras. He was voted
-    the best newcomer of the 2015 Campeonato Brasileiro S\xE9rie A, a year in which
-    he also helped his team win the Copa do Brasil. The following year he was named
-    the player of the season as Palmeiras won their first national league title in
-    22 years. He joined Manchester City in January 2017 for a transfer fee of \u20AC32
-    million, and won the Premier League in 2018, 2019 and 2021, the EFL Cup in 2018,
-    2020 and 2021, and the FA Cup in 2019. "
+  <Text>k__BackingField: 'Inducted into Billiard Congress of America Hall of Fame:
+    2000
+
+    Discipline: Straight pool, Nine-ball'
